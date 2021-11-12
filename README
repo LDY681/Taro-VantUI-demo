@@ -1,6 +1,0 @@
-Getting Started
-npm i
-taro build --type h5 --watch
-
-Demonstration
-![Demonstration](https://imgur.com/a/axuyL1a)
